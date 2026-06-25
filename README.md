@@ -1,30 +1,32 @@
-# Olá, eu sou Renato Silva 👋
-
-## Sobre mim
+# Olá, eu sou Renato Vinicius 👋
 
 🎯 QA Junior em transição de carreira
 
 💻 Formado em Análise e Desenvolvimento de Sistemas
 
-🔧 +6 anos de experiência em suporte técnico
+🔧 +5 anos de experiência em Suporte Técnico
 
-## Tecnologias
+## Atualmente estudando
 
-- QA Manual
-- Postman
-- Cypress
-- SQL
-- Git
-- GitHub
+* Testes Manuais
+* Testes de API (Postman)
+* Automação com Cypress
+* SQL
+* Git e GitHub
 
 ## Projetos
 
-📌 QA Manual Testing
+🚧 Em construção...
 
-📌 API Testing com Postman
+Em breve estarei publicando meus projetos de QA, incluindo:
 
-📌 Automação com Cypress em estudo
+* Casos de Teste
+* Bug Reports
+* Testes de API
+* Automação de Testes
 
 ## Contato
 
-LinkedIn: https://linkedin.com/in/renato-vinicius-silva
+💼 LinkedIn: [www.linkedin.com/in/renato-vinicius-silva](http://www.linkedin.com/in/renato-vinicius-silva)
+
+📧 E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
