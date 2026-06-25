@@ -6,7 +6,7 @@
 
 💻 Formado em Análise e Desenvolvimento de Sistemas
 
-🔧 5 anos de experiência em suporte técnico
+🔧 +6 anos de experiência em suporte técnico
 
 ## Tecnologias
 
@@ -23,8 +23,8 @@
 
 📌 API Testing com Postman
 
-📌 Automação com Cypress
+📌 Automação com Cypress em estudo
 
 ## Contato
 
-LinkedIn: https://linkedin.com/in/seu-perfil
+LinkedIn: https://linkedin.com/in/renato-vinicius-silva
