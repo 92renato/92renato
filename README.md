@@ -1,4 +1,4 @@
-# Olá, eu sou Renato Vinicius 👋
+# Oi, eu sou o Renato 👋
 
 🎯 QA Júnior em transição de carreira
 
@@ -18,7 +18,9 @@
 
 🚧 Em construção...
 
-Em breve estarei publicando meus projetos de QA, incluindo:
+Em breve estarei publicando meus projetos de QA[texto que aparece]([URL](https://github.com/92renato/qa-portifolio)), incluindo:
+
+[meus projetos](https://github.com/92renato/qa-portifolio)
 
 * Casos de Teste
 * Bug Reports
