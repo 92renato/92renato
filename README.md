@@ -1,6 +1,6 @@
 # Olá, eu sou Renato Vinicius 👋
 
-🎯 QA Junior em transição de carreira
+🎯 QA Júnior em transição de carreira
 
 💻 Formado em Análise e Desenvolvimento de Sistemas
 
