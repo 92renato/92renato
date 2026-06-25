@@ -24,9 +24,3 @@ Em breve estarei publicando meus projetos de QA, incluindo:
 * Bug Reports
 * Testes de API
 * Automação de Testes
-
-## Contato
-
-💼 LinkedIn: [www.linkedin.com/in/renato-vinicius-silva](http://www.linkedin.com/in/renato-vinicius-silva)
-
-📧 E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
