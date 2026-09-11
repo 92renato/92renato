@@ -10,7 +10,7 @@
 
 * Testes Manuais
 * Testes de API (Postman)
-* Automação com Cypress
+* Automação com Playwright
 * SQL
 * Git e GitHub
 
