@@ -4,7 +4,7 @@
 
 💻 Formado em Análise e Desenvolvimento de Sistemas
 
-🔧 +5 anos de experiência em Suporte Técnico
+🔧 +5 anos de experiência em Suporte Técnico com foco em Qualidade e Testes Manuais
 
 ## Atualmente estudando
 
