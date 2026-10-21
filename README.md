@@ -16,8 +16,6 @@
 
 ## Projetos
 
-🚧 Em construção...
-
 [Aqui](https://github.com/92renato/qa-portifolio) alguns dos meu projetos de QA já publicados, incluindo:
 
 * Casos de Teste
