@@ -18,7 +18,7 @@
 
 🚧 Em construção...
 
-Em breve estarei publicando meus projetos de QA [aqui](https://github.com/92renato/qa-portifolio), incluindo:
+[Aqui](https://github.com/92renato/qa-portifolio) alguns dos meu projetos de QA já publicados, incluindo:
 
 * Casos de Teste
 * Bug Reports
