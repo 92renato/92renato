@@ -1,16 +1,16 @@
 # Oi, eu sou o Renato 👋
 
-🎯 QA Júnior em transição de carreira
+🎯 QA Júnior em busca recolocação! 
 
 💻 Formado em Análise e Desenvolvimento de Sistemas
 
-🔧 +5 anos de experiência em Suporte Técnico com foco em Qualidade e Testes Manuais
+🔧 +7 anos de experiência na área de tecnologia atuando em suporte técnico com foco em Qualidade e Testes Manuais
 
 ## Atualmente estudando
 
-* Testes Manuais
+* Conceitos de testes
 * Testes de API (Postman)
-* Automação com Playwright
+* Automação de testes (Playwright)
 * SQL
 * Git e GitHub
 
@@ -22,3 +22,5 @@
 * Bug Reports
 * Testes de API
 * Automação de Testes
+
+Até mais, e obrigado pelos peixes! 
