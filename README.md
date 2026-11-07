@@ -23,4 +23,3 @@
 * Testes de API
 * Automação de Testes
 
-Até mais, e obrigado pelos peixes! 
